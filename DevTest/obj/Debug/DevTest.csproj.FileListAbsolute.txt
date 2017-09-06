@@ -1,0 +1,7 @@
+C:\Users\wolfen\documents\visual studio 2017\Projects\DevTest\DevTest\bin\Debug\Wolfen.DevTest.exe.config
+C:\Users\wolfen\documents\visual studio 2017\Projects\DevTest\DevTest\bin\Debug\Wolfen.DevTest.exe
+C:\Users\wolfen\documents\visual studio 2017\Projects\DevTest\DevTest\bin\Debug\Wolfen.DevTest.pdb
+C:\Users\wolfen\documents\visual studio 2017\Projects\DevTest\DevTest\bin\Debug\DevTest.dll
+C:\Users\wolfen\documents\visual studio 2017\Projects\DevTest\DevTest\bin\Debug\NLipsum.Core.dll
+C:\Users\wolfen\documents\visual studio 2017\Projects\DevTest\DevTest\obj\Debug\Wolfen.DevTest.exe
+C:\Users\wolfen\documents\visual studio 2017\Projects\DevTest\DevTest\obj\Debug\Wolfen.DevTest.pdb
